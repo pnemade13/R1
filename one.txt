@@ -1,1 +1,7 @@
 This is my file one for git course
+python code
+
+a =5
+b=6
+c = a+b
+print (c) 
